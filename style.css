@@ -1,0 +1,13 @@
+/* css writeing */
+.item-1{
+    position: relative;
+}
+.test{
+    position: absolute;
+    top: -20px;
+    left: -20px;
+    color: black;
+    padding: 10px;
+    border: 1px solid rgba(255, 221, 0, 0.785);
+    border-radius: 50px;
+}
